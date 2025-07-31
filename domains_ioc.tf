@@ -4,5 +4,6 @@ locals {
     "badactor.example.org",
     "super.bad.example.com",
     "super.good.example.com",
+    "bad-hacker-domain-testing.com",
   ]
 }
