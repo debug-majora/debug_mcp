@@ -1,6 +1,7 @@
 locals {
   list_global_blocked_domains_ioc = [
     "malicious.example.com",
-    "badactor.example.org"
+    "badactor.example.org",
+	"super.bad.example.com"
   ]
 }
