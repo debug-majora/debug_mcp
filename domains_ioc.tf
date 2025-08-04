@@ -4,5 +4,7 @@ locals {
     "badactor.example.org",
     "super.bad.example.com",
     "super.good.example.com",
+    "bad-ioc-testing.com",
+    "castellanos-ioc.xyz",
   ]
 }
